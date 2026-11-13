@@ -1,0 +1,20 @@
+{
+  "schema": "sx.ego-editor-release/v1",
+  "release": "20261113113209",
+  "commit": "6aaf5a94cac6ceb3eb416353e95dfa1d845631e7",
+  "published_at": "2026-11-13T12:42:57Z",
+  "windows": {
+    "name": "sx-ego-editor.exe",
+    "url": "https://raw.githubusercontent.com/Sentient-X/sx-ego-editor-releases/releases/artifacts/20261113113209/sx-ego-editor.exe",
+    "sha256": "0ff84304f18a3aaccc1476317415a1d2feed84daf16208d75f19e4ff5363660f",
+    "size": 377225216,
+    "parts": 6
+  },
+  "debian": {
+    "name": "sx-ego-editor_0.1.0+20261113113209.6aaf5a94cac6_amd64.deb",
+    "url": "https://raw.githubusercontent.com/Sentient-X/sx-ego-editor-releases/releases/artifacts/20261113113209/sx-ego-editor_0.1.0+20261113113209.6aaf5a94cac6_amd64.deb",
+    "sha256": "4df20ca61e0442d9849b512d47628ae79d826b81039497f323577f6936474b17",
+    "size": 139925400,
+    "parts": 3
+  }
+}
